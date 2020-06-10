@@ -31,4 +31,4 @@ The code is in the zip folders, and it is written in Matlab
 
 [7] Gaz. C., Flacco F., De Luca A., (2016), "Extracting Feasible Robot Parameters from Dynamic Coefficients using Nonlinear Optimization Methods", IEEE International Conference on Robotics and Automation (ICRA), Sweden, pp. 2075-2081.
 
-[8] Gaz C., Cognetti M., Oliva A., Robuo Giordano P., De Luca A., (2019), "Dynamic Identification of the Franka Emika Panda Robot With Retrieval of Feasible Parameters Using Penalty-Based Optimization", IEEE Robotics and Automation Letters Vol. 4 No.4.
+[8] Gaz C., Cognetti M., Oliva A., Robuffo Giordano P., De Luca A., (2019), "Dynamic Identification of the Franka Emika Panda Robot With Retrieval of Feasible Parameters Using Penalty-Based Optimization", IEEE Robotics and Automation Letters Vol. 4 No.4.
