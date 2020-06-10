@@ -1,0 +1,1 @@
+q = [sin(pi/3*t) sin(pi/6*t) 1.5*sin(pi/3*t) 2*sin(pi/12*t) 0.1*sin(t) sin(pi/9*t) 0.3*sin(pi/6*t)]
